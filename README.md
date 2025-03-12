@@ -23,11 +23,6 @@ Edit
 
 ---
 
-## 📷 Screenshots  
-| 📌 Home Page | 📌 Resume Upload | 📌 Analysis Output |
-|-------------|---------------|---------------|
-| ![Home Page](https://via.placeholder.com/400) | ![Upload](https://via.placeholder.com/400) | ![Output](https://via.placeholder.com/400) |
-
 ---
 
 ## 🚀 Installation Guide  
