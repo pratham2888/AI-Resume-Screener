@@ -74,7 +74,7 @@ This project is open-source and available under the MIT License.
 
 📬 Contact
 🔗 GitHub: pratham2888
-📧 Email: your-email@example.com
+📧 Email: prathambhanushali71@gmail.com
 
 🌟 If you like this project, don't forget to ⭐ star the repository!
 yaml
